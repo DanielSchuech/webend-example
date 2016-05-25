@@ -1,0 +1,18 @@
+{
+  "name": "webend_ng2light",
+  "version": "1.0.0",
+  "description": "An example component for a test page",
+  "browser": {
+    "entry": "ng2",
+    "framework": "angular2"
+  },
+  "author": "Daniel Schuech",
+  "license": "MIT",
+  "dependencies": {
+    "webend_ng1dir": "1.0.0",
+    "typescript": "^1.8.0"
+  },
+  "optionalDependencies": {
+    "webend_lightservice": "^1.0.0"
+  }
+}

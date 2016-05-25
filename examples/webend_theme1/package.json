@@ -1,0 +1,8 @@
+{
+  "name": "webend_theme1",
+  "version": "1.0.0",
+  "description": "An example theme for a test page",
+  "main": "theme1.js",
+  "author": "Daniel Schuech",
+  "license": "MIT"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "webend_lightservice",
+  "version": "1.0.0",
+  "description": "An example service for a test page",
+  "browser": {
+    "entry": "service",
+    "framework": "angular2"
+  },
+  "author": "Daniel Schuech",
+  "license": "MIT"
+}

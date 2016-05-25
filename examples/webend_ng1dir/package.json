@@ -1,0 +1,11 @@
+{
+  "name": "webend_ng1dir",
+  "version": "1.0.0",
+  "description": "An example directive for a test page",
+  "browser": {
+    "entry": "ng1dir",
+    "framework": "angular"
+  },
+  "author": "Daniel Schuech",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "webend_ng1light",
+  "version": "1.0.0",
+  "description": "An example theme for a test page",
+  "browser": {
+    "entry": "ng1light",
+    "framework": "angular"
+  },
+  "author": "Daniel Schuech",
+  "license": "MIT",
+  "optionalDependencies": {
+    "webend_lightservice": "^1.0.0"
+  }
+}

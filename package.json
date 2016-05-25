@@ -1,0 +1,37 @@
+{
+  "name": "webend-example",
+  "version": "1.0.0",
+  "description": "An example application for a webend development",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielSchuech/webend-example.git"
+  },
+  "keywords": [
+    "webend"
+  ],
+  "author": "Daniel Schuech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielSchuech/webend-example/issues"
+  },
+  "homepage": "https://github.com/DanielSchuech/webend-example#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "webend": "^0.1.1",
+    "webend_hub": "^0.1.2",
+    "webend_lightservice": "file:examples\\webend_lightservice",
+    "webend_ng1dir": "file:examples\\webend_ng1dir",
+    "webend_ng1light": "file:examples\\webend_ng1light",
+    "webend_ng2light": "file:examples\\webend_ng2light",
+    "webend_rea_theme": "file:examples\\webend_rea_theme",
+    "webend_theme1": "file:examples\\webend_theme1"
+  }
+}

@@ -1,0 +1,16 @@
+module.exports = `
+  <div class="col-md-6">
+    <h3>
+      Angular 2 World -
+      <span *ngIf="on" ng1-status-styler [status]="on">online</span>
+      <span *ngIf="!on" ng1-status-styler [status]="on">offline</span>
+    </h3>
+      
+    <button type="button" class="btn btn-default"
+      (click)="switch()">Enable/Disable Light</button>
+  
+    <div id="c">
+      <div class="s" [class.on]="on" [class.off]="!on"></div>
+    </div>
+  </div>  
+`
