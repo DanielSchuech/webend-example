@@ -25,6 +25,7 @@
     "typescript": "^1.8.10"
   },
   "dependencies": {
+    "typings": "^0.8.0",
     "webend": "^0.1.1",
     "webend_hub": "^0.1.2",
     "webend_lightservice": "file:examples\\webend_lightservice",

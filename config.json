@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": 8080,
+    "SysComPort": 5051
+  },
+  
+  "privateKeyPath": "",
+  
+  "pluginPrefix": "webend_"
+}
